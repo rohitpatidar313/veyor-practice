@@ -28,22 +28,22 @@ A	-	Introduction
 
 B	-	Project Structure 
 
-		1	-	Main Module
-		        With two packages as java and test
+		- Main Module
+		  With two packages as java and test
 
 C	-	Module Description
 
 		1 - Main Module
-			This project have two packages, java which contains all the code changes.
-			test package contains test classes for JUnit.
+			- This project have two packages, java which contains all the code changes.
+			- test package contains test classes for JUnit.
 	
 D	-	Technology Stack 
 
 		1 - Java 1.8
 		2 - Spring framework - 3.1.2
-		5 - Mockito 1.9.5
-		6 - powerMock 1.6.1
-		7 - log4j 2.0.2
+		3 - Mockito 1.9.5
+		4 - powerMock 1.6.1
+		5 - log4j 2.0.2
 
 E	-	How to Build 
 
@@ -58,24 +58,24 @@ E	-	How to Build
 
 F	-	Local Setup
               
-        Pre-requisite:
+                Pre-requisite:
         
-            - Any IDE- IntelliJ/Eclipse etc.
-            - Java 8
-            - Maven 3.x.x
+       		- Any IDE- IntelliJ/Eclipse etc.
+            	- Java 8
+            	- Maven 3.x.x
                 		
-        Code Base Setup:
+       		Code Base Setup:
         
-            - Clone repository: https://github.com/rohitpatidar313/veyor-pratice.git
-            - Run maven clean install.
-            - Run application. 
+            	- Clone repository: https://github.com/rohitpatidar313/veyor-practice.git
+            	- Run maven clean install.
+            	- Run application. 
 
                 
 G	-	Version Control
               
-        for version control and repository management Git is used
+        	For version control and repository management Git is used
                 		
-        Git URL for this application is: 
+        	Git URL for this application is: https://github.com/rohitpatidar313/veyor-practice.git
         
 H	-	Code quality
 
